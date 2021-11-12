@@ -401,6 +401,10 @@ footer {
         right: 16px;
     }
 
+    .card-remove p {
+        display: none;
+    }
+
     .card-info {
         padding: 16px;
     }
@@ -441,12 +445,6 @@ footer {
     .footer-nav-text a {
         text-align: left;
         line-height: 48px;
-    }
-
-    .footer-nav-text a:first-child {
-    }
-
-    .footer-nav-text a:last-child {
     }
 
     .footer-social {
